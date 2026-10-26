@@ -1,0 +1,5 @@
+{
+  "buildSystem": "native",
+  "language": "kotlin",
+  "projectName": "smart_auto_clicker"
+}
